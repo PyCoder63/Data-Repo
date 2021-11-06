@@ -1,2 +1,2 @@
 # Data-Repo
-This repository contain projects related to data science, Analysis and Visualization
+This repository contain mini projects and assigments during my professional course of Data Analysis with Pyton
